@@ -30,14 +30,11 @@ body {
 
 .back-home a:hover {
   background: rgba(255, 255, 255, 0.12);
-  color: var(--accent);
-  border-color: var(--accent);
-}
-
-.back-home a:hover {
-  background: #151a2b;
   border-color: var(--accent);
   color: var(--accent);
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 0 1.5rem;
 }
 
 .icon {
