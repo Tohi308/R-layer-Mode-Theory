@@ -1,103 +1,148 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Profile – Tohi Tsuyoshi</title>
+/* ===============================
+   Global Theme(Home)
+   =============================== */
+:root {
+  --bg: #0b1020;
+  --bg-alt: #151a2b;
+  --fg: #f5f5f7;
+  --accent: #c9a86a;
+  --muted: #a0a4b8;
+  --link: #7fb4ff;
+  --border: #2a3045;
+  --font-sans: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-serif: "Merriweather", "Noto Serif JP", serif;
+}
 
-<link rel="stylesheet" href="profile.css">
+/* ===============================
+   Base
+   =============================== */
+body {
+  margin: 0;
+  padding: 0;
+  background: radial-gradient(circle at top, #1b2340 0, #050814 55%, #02030a 100%);
+  color: var(--fg);
+  font-family: var(--font-sans);
+  line-height: 1.6;
+}
 
-</head>
-<body>
+a {
+  color: var(--link);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
 
-<header class="header">
-    <div class="back-home">
-     <a href="index.html">← Home に戻る</a>
-    </div>
-    <img src="assets/icon.png" alt="Profile Icon" class="icon">
-    <div class="title-block">
-        <h1>Tohi Tsuyoshi</h1>
-        <p>R-layer Mode Theory Researcher</p>
-    </div>
-    <img src="assets/rlmt_logo.svg" alt="RLMT Logo" class="logo">
-</header>
+/* ===============================
+   Header
+   =============================== */
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 40px auto 20px;
+  padding: 0 1.5rem;
+}
 
-<div class="container">
+.icon {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+}
 
-    <!-- English -->
-    <div class="column">
-        <h2>Profile</h2>
+.logo {
+  width: 120px;
+  opacity: 0.9;
+}
 
-        <p><span class="label">Name:</span> Tohi Tsuyoshi</p>
-        <p><span class="label">Address:</span> Japan</p>
-        <p><span class="label">E-mail:</span> To be announced</p>
+.title-block {
+  text-align: center;
+}
 
-        <p><span class="label">Favorite Subjects:</span><br>
-        R-layer Mode Theory, AI, Audio Engineering, etc.</p>
+.header .title-block h1,
+.header .title-block p {
+  color: var(--fg) !important;
+  margin: 0;
+  font-family: var(--font-serif);
+}
 
-        <p><span class="label">Personal Motto:</span><br>
-        <em>The universe is built from a single, extremely simple equation.</em></p>
+/* ===============================
+   Back to Home Button
+   =============================== */
+.back-home {
+  max-width: 1200px;
+  margin: 0 auto 25px;
+  padding: 0 1.5rem;
+}
 
-        <h2>About Me</h2>
+.back-home a {
+  display: inline-block;
+  background: linear-gradient(to right, #0b1020, #151a2b);
+  color: var(--fg);
+  padding: 0.6rem 1.2rem;
+  border: 1px solid var(--accent);
+  border-radius: 6px;
+  font-size: 0.95rem;
+  text-decoration: none;
+  transition: 0.2s ease;
+}
 
-        <p>
-        Current physics identifies about 15 elementary particles, including quarks and leptons.
-        However, the idea that “the smallest building blocks of nature” come in 15 types feels unnecessarily complicated.
-        </p>
+.back-home a:hover {
+  background: #151a2b;
+  border-color: var(--accent);
+  color: var(--accent);
+}
 
-        <p>
-        What if quarks themselves are not fundamental?  
-        What if all quarks are composed of <strong>only two even smaller modes</strong>, combined in different configurations?
-        </p>
+/* ===============================
+   Main Layout
+   =============================== */
+.container {
+  display: flex;
+  gap: 40px;
+  max-width: 1200px;
+  margin: auto;
+  padding: 0 1.5rem 40px;
+}
 
-        <p>
-        If such a structure exists, then gravity, dark matter, and dark energy could be explained in a far simpler and more unified way.
-        </p>
+/* ===============================
+   Columns
+   =============================== */
+.column {
+  flex: 1;
+  background: rgba(255,255,255,0.05);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 30px;
+  color: var(--fg);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
 
-        <p>
-        My research, <strong>R-layer Mode Theory</strong>, explores this possibility.
-        </p>
-    </div>
+h2 {
+  margin-top: 0;
+  font-size: 1.4rem;
+  font-family: var(--font-serif);
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 6px;
+  color: var(--accent);
+}
 
-    <!-- Japanese -->
-    <div class="column">
-        <h2>プロフィール</h2>
+.label {
+  font-weight: bold;
+  color: var(--accent);
+}
 
-        <p><span class="label">氏名：</span> 戸井 剛（Tohi Tsuyoshi）</p>
-        <p><span class="label">所在地：</span> 日本（詳細非公開）</p>
-        <p><span class="label">メール：</span> 後日公開予定</p>
-
-        <p><span class="label">好きな分野：</span><br>
-        R-layer モード理論、AI、オーディオ工学 ほか</p>
-
-        <p><span class="label">モットー：</span><br>
-        宇宙はすごく単純な一つの方程式からできている。</p>
-
-        <h2>自己紹介</h2>
-
-        <p>
-        現在の物理学では、クォークやレプトンなど約15種類の素粒子が確認されています。
-        しかし「最小単位なのに15種類」という事実は、むしろ“複雑すぎる”と感じています。
-        </p>
-
-        <p>
-        もし、クォークそのものが最小ではなく、  
-        <strong>たった2種類のより小さなモード</strong> の組み合わせで構成されているとしたらどうでしょう。
-        </p>
-
-        <p>
-        そのような構造が存在するなら、重力、ダークマター、ダークエネルギーといった  
-        現代物理学の最大の謎も、より単純で統一的に説明できるはずです。
-        </p>
-
-        <p>
-        私の研究である <strong>R-layer Mode Theory</strong> は、  
-        宇宙が層状の張力場と離散的なモードから構成されているという視点から、  
-        自然界の複雑さの奥にある“単純な構造”を明らかにしようとする試みです。
-        </p>
-    </div>
-
-</div>
-
-</body>
-</html>
+/* ===============================
+   Responsive
+   =============================== */
+@media (max-width: 800px) {
+  .container {
+    flex-direction: column;
+  }
+  .header {
+    flex-direction: column;
+    gap: 20px;
+  }
+}
