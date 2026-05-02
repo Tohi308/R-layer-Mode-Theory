@@ -16,22 +16,22 @@ body {
     margin-bottom: 40px;
 }
 
-.back-home {
-  margin: 0 auto 20px;
-  max-width: 960px;
-  padding: 0 1.5rem;
-}
-
 .back-home a {
   display: inline-block;
-  background: linear-gradient(to right, #0b1020, #151a2b);
+  background: rgba(255, 255, 255, 0.05);
   color: var(--fg);
   padding: 0.6rem 1.2rem;
-  border: 1px solid var(--border);
+  border: 1px solid var(--accent);
   border-radius: 6px;
   font-size: 0.95rem;
   text-decoration: none;
   transition: 0.2s ease;
+}
+
+.back-home a:hover {
+  background: rgba(255, 255, 255, 0.12);
+  color: var(--accent);
+  border-color: var(--accent);
 }
 
 .back-home a:hover {
@@ -57,9 +57,9 @@ body {
     text-align: center;
 }
 
-.title-block h1 {
-    margin: 0;
-    font-size: 2.2rem;
+.title-block h1,
+.title-block p {
+  color: var(--fg);
 }
 
 .container {
