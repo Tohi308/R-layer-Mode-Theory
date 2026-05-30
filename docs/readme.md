@@ -3,7 +3,7 @@ This repository hosts the official preview site for R-layer Mode Theory (RLMT).
 
 The full theory is currently being prepared for submission to zenodo and preprint-server. Once the papers are published, this site will be updated with links, abstracts, and a structured volume index.
 
-Site URL
+**Site URL**  
 https://tohi308.github.io/R-layer-Mode-Theory/
 
 This site currently provides:
