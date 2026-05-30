@@ -28,7 +28,7 @@ IU‑HIP は、
 ---
 
 ## Representative
-**Tsuyoshi Tohi（東飛 剛）**  
+**Tsuyoshi Tohi（土肥　毅司）**  
 Founder & Independent Researcher  
 Institute for Unified Higher‑Dimensional Information Physics (IU‑HIP)  
 ORCID: 0009-0001-3043-5967
