@@ -23,8 +23,12 @@ IU‑HIP は独立研究所として運営され、
 ## Documents
 以下に規約 PDF を掲載します。
 
-- **Bylaws (English)** — `bylaws-en.pdf`  
-- **Bylaws (Japanese)** — `bylaws-jp.pdf`
+- **Bylaws (English)**  
+  [bylaws-en.pdf](bylaws-en.pdf)
+
+- **Bylaws (Japanese)**  
+  [bylaws-jp.pdf](bylaws-jp.pdf)
+
 
 
 ---
