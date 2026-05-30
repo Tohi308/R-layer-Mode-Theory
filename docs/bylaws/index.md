@@ -31,7 +31,7 @@ IU‑HIP は独立研究所として運営され、
 ---
 
 ## Related Pages
-- [About IU‑HIP](R-layer-Mode-Theory/docs/about/)
-- [RLMT](/R-layer-Mode-Theory/docs/rlmt/)
-- [Publications](/R-layer-Mode-Theory/docs/publications/)
+- [About IU‑HIP](R-layer-Mode-Theory/about/)
+- [RLMT](/R-layer-Mode-Theory/rlmt/)
+- [Publications](/R-layer-Mode-Theory/publications/)
 
