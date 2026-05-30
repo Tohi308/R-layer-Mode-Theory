@@ -34,8 +34,8 @@ RLMT の図表・概念図・構造図など。
 ---
 
 ## Related Pages
-- [About IU‑HIP](/R-layer-Mode-Theory/docs/about/)
-- [RLMT](/R-layer-Mode-Theory/docs/rlmt/)
-- [Publications](/R-layer-Mode-Theory/docs/publications/)
-- [Bylaws](/R-layer-Mode-Theory/docs/bylaws/)
+- [About IU‑HIP](/R-layer-Mode-Theory/about/)
+- [RLMT](/R-layer-Mode-Theory/rlmt/)
+- [Publications](/R-layer-Mode-Theory/publications/)
+- [Bylaws](/R-layer-Mode-Theory/bylaws/)
 
