@@ -43,6 +43,11 @@ RLMT の各巻は以下にまとめられています。
 → `/rlmt/volumes/` に PDF を配置してください。
 
 ---
+## Volumes
+RLMT の全巻一覧はこちら：  
+→ [RLMT Volumes](/R-layer-Mode-Theory/rlmt/volumes/)
+
+---
 
 ## Appendices
 
