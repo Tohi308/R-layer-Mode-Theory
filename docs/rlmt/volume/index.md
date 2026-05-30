@@ -31,8 +31,8 @@ R‑layer Mode Theory（RLMT）の各巻は、
 ---
 
 ## Related Pages
-- [RLMT Overview](/R-layer-Mode-Theory/docs/rlmt/)
-- [About IU‑HIP](/R-layer-Mode-Theory/docs/about/)
-- [Publications](/R-layer-Mode-Theory/docs/publications/)
+- [RLMT Overview](/R-layer-Mode-Theory/rlmt/)
+- [About IU‑HIP](/R-layer-Mode-Theory/about/)
+- [Publications](/R-layer-Mode-Theory/publications/)
 
 
