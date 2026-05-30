@@ -45,7 +45,7 @@ arXiv への投稿後、自動的に登録されます。
 ---
 
 ## Related Pages
-- [RLMT — R-layer Mode Theory](/R-layer-Mode-Theory/docs/rlmt/)
-- [About IU‑HIP](/R-layer-Mode-Theory/docs/about/)
-- [Bylaws](/R-layer-Mode-Theory/docs/bylaws/)
+- [RLMT — R-layer Mode Theory](/R-layer-Mode-Theory/rlmt/)
+- [About IU‑HIP](/R-layer-Mode-Theory/about/)
+- [Bylaws](/R-layer-Mode-Theory/bylaws/)
 
