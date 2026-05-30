@@ -1,60 +1,36 @@
-# R‑layer Mode Theory (RLMT)
+# Bylaws  
+### Institute for Unified Higher‑Dimensional Information Physics (IU‑HIP)
 
-R‑layer Mode Theory（RLMT）は、  
-物理現象を階層化された情報モードとして統一的に記述する理論です。
-
-IU‑HIP（統合高次元情報物理学研究所）の中心的研究領域であり、  
-宇宙の深層に存在する情報構造を明らかにすることを目的としています。
+IU‑HIP の運営は、透明性・独立性・学術的中立性を重視し、  
+以下の規約（Bylaws）に基づいて行われます。
 
 ---
 
-## Core Concepts
-
-### **R‑layer（階層構造）**
-物理実在を多層的な情報構造として捉える枠組み。
-
-### **Mode（情報モード）**
-各層に存在する情報単位。  
-場・粒子・幾何構造を統一的に扱う抽象的基礎。
-
-### **Inter‑layer Coupling（層間結合）**
-層をまたぐ情報の流れ。  
-物理法則の統一的理解に重要な役割を果たす。
-
-### **Information Geometry**
-高次元情報構造を記述する幾何学的基盤。
-
-### **Information‑Based Cosmology**
-宇宙論を情報構造の観点から再構成する試み。
+## Purpose
+- 高次元情報物理学の研究推進  
+- RLMT の体系化と公開  
+- 学術コミュニティへの貢献  
+- 研究の透明性と独立性の確保  
 
 ---
 
-## RLMT Volumes
-
-RLMT の各巻は以下にまとめられています。
-
-- **Volume I — Foundations**  
-- **Volume II — Geometry of R‑layers**  
-- **Volume III — Information Dynamics**  
-- **Volume IV — Cosmological Applications**  
-- **Volume V — Quantum‑Classical Unification**  
-- …（随時追加）
-
-→ `/rlmt/volumes/` に PDF を配置してください。
+## Governance
+IU‑HIP は独立研究所として運営され、  
+代表（Founder & Independent Researcher）が研究活動を統括します。
 
 ---
 
-## Appendices
+## Documents
+以下に規約 PDF を掲載します。
 
-- **Appendix X — Foundational Structures**  
-- **Appendix Y — Mathematical Framework**
+- **Bylaws (English)** — `bylaws-en.pdf`  
+- **Bylaws (Japanese)** — `bylaws-jp.pdf`
 
-→ `/rlmt/appendices/` に PDF を配置。
+→ `/bylaws/` フォルダに PDF を配置してください。
 
 ---
 
 ## Related Pages
 - [About IU‑HIP](/R-layer-Mode-Theory/about/)
+- [RLMT](/R-layer-Mode-Theory/rlmt/)
 - [Publications](/R-layer-Mode-Theory/publications/)
-- [Bylaws](/R-layer-Mode-Theory/bylaws/)
-
