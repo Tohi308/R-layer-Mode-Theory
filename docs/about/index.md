@@ -36,6 +36,6 @@ ORCID: 0009-0001-3043-5967
 ---
 
 ## Related Pages
-- [RLMT — R‑layer Mode Theory](/rlmt/)
-- [Publications](/publications/)
-- [Bylaws](/bylaws/)
+- [RLMT — R‑layer Mode Theory](/R-layer-Mode-Theory/rlmt/)
+- [Publications](/R-layer-Mode-Theory/publications/)
+- [Bylaws](/R-layer-Mode-Theory/bylaws/)
