@@ -26,7 +26,6 @@ IU‑HIP は独立研究所として運営され、
 - **Bylaws (English)** — `bylaws-en.pdf`  
 - **Bylaws (Japanese)** — `bylaws-jp.pdf`
 
-→ `/bylaws/` フォルダに PDF を配置してください。
 
 ---
 
