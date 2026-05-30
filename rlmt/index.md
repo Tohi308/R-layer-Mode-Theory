@@ -1,37 +1,59 @@
-# RLMT Volumes  
-### R‑layer Mode Theory — Complete Volume List
+# R‑layer Mode Theory (RLMT)
 
-R‑layer Mode Theory（RLMT）の各巻は、  
-高次元情報物理学の体系化を目的として構築されています。
+R‑layer Mode Theory（RLMT）は、  
+物理現象を階層化された情報モードとして統一的に記述する理論です。
 
-ここでは、公開済み PDF を一覧として整理します。
+IU‑HIP（統合高次元情報物理学研究所）の中心的研究領域であり、  
+宇宙の深層に存在する情報構造を明らかにすることを目的としています。
 
 ---
 
-## Volumes (PDF)
+## Core Concepts
 
-| Volume | Title | PDF |
-|-------|--------|------|
-| Volume 0 | Introduction to RLMT | [PDF](/R-layer-Mode-Theory/rlmt/volumes/volume-0.pdf) |
-| Volume I | Foundations | [PDF](/R-layer-Mode-Theory/rlmt/volumes/volume-1.pdf) |
-| Volume II | Geometry of R‑layers | [PDF](/R-layer-Mode-Theory/rlmt/volumes/volume-2.pdf) |
-| Volume III | Information Dynamics | [PDF](/R-layer-Mode-Theory/rlmt/volumes/volume-3.pdf) |
-| Volume IV | Cosmological Applications | [PDF](/R-layer-Mode-Theory/rlmt/volumes/volume-4.pdf) |
-| Volume V | Quantum‑Classical Unification | [PDF](/R-layer-Mode-Theory/rlmt/volumes/volume-5.pdf) |
+### **R‑layer（階層構造）**
+物理実在を多層的な情報構造として捉える枠組み。
 
-※ PDF を追加したら、この表に行を追加してください。
+### **Mode（情報モード）**
+各層に存在する情報単位。  
+場・粒子・幾何構造を統一的に扱う抽象的基礎。
+
+### **Inter‑layer Coupling（層間結合）**
+層をまたぐ情報の流れ。  
+物理法則の統一的理解に重要な役割を果たす。
+
+### **Information Geometry**
+高次元情報構造を記述する幾何学的基盤。
+
+### **Information‑Based Cosmology**
+宇宙論を情報構造の観点から再構成する試み。
+
+---
+
+## RLMT Volumes
+
+RLMT の各巻は以下にまとめられています。
+
+- **Volume I — Foundations**  
+- **Volume II — Geometry of R‑layers**  
+- **Volume III — Information Dynamics**  
+- **Volume IV — Cosmological Applications**  
+- **Volume V — Quantum‑Classical Unification**  
+- …（随時追加）
+
+→ `/rlmt/volumes/` に PDF を配置してください。
 
 ---
 
 ## Appendices
 
-- [Appendix X](/R-layer-Mode-Theory/rlmt/appendices/appendix-x.pdf)  
-- [Appendix Y](/R-layer-Mode-Theory/rlmt/appendices/appendix-y.pdf)
+- **Appendix X — Foundational Structures**  
+- **Appendix Y — Mathematical Framework**
+
+→ `/rlmt/appendices/` に PDF を配置。
 
 ---
 
 ## Related Pages
-- [RLMT Overview](/R-layer-Mode-Theory/rlmt/)
 - [About IU‑HIP](/R-layer-Mode-Theory/about/)
 - [Publications](/R-layer-Mode-Theory/publications/)
-
+- [Bylaws](/R-layer-Mode-Theory/bylaws/)
