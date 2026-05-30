@@ -1,4 +1,5 @@
-R-layer Mode Theory — Preview Site
+# R-layer Mode Theory — Preview Site
+
 This repository hosts the official preview site for R-layer Mode Theory (RLMT).
 
 The full theory is currently being prepared for submission to zenodo and preprint-server. Once the papers are published, this site will be updated with links, abstracts, and a structured volume index.
