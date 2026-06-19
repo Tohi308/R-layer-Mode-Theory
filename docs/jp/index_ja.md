@@ -9,7 +9,7 @@ R-layer Mode Theory（RLMT）は、
 量子非局所性・宇宙論・ブラックホール情報・文明ダイナミクスを  
 統一的に扱う高次元テンション場の理論です。
 
-→ [RLMTの紹介](rlmt-intro_ja.md)
+→ [RLMTの紹介](rlmt_intro_ja.md)
 
 ---
 
