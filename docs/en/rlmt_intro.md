@@ -102,10 +102,10 @@ Purity quantifies the AUP/MUP bias of each mode and is central to Appendix X.
 | Small-AUP | 1 | 0 | +1 | minimal AUP | minimal antimatter mode |
 | Small-MUP | 0 | 1 | -1 | minimal MUP | minimal matter mode |
 | CUP | 1 | 1 | 0 | neutral | first stable composite |
-| Large-AUP | 2 | 1 | +1/3 | AUP-biased | CUP + Small-AUP |
-| Large-MUP | 1 | 2 | -1/3 | MUP-biased | CUP + Small-MUP |
+| Large-AUP | 2 | 1 | +1/3 | AUP-biased | Small-MUP + Small-AUP + Small-AUP |
+| Large-MUP | 1 | 2 | -1/3 | MUP-biased | Small-MUP + Small-MUP + Small-AUP |
 
-Large-AUP/MUP are asymmetric composites formed by adding a Small-mode to CUP.
+Large-AUP/MUP are asymmetric composites formed by adding a Small-AUP/MUP mode to Small-AUP + Small-MUP.
 
 ---
 
