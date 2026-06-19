@@ -6,19 +6,19 @@ Welcome to the official documentation site.
 
 ## 🔗 Links
 
-[📄 Profile (English)](en/profile.md)  
-[📄 プロフィール（日本語）](jp/profile_ja.md)  
-[📘 RLMT 日本語版（全10章）](jp/index.md)  
-[📙 RLMT English Edition (All 10 Chapters)](en/index.md)
+[📄 Profile / プロフィール](en/profile.md)  
+ 
+[📘 RLMT 日本語版](jp/index.md)  
+[📙 RLMT English Edition](en/index.md)
 
 ---
 
 
 ## 📘 RLMT 
 ## About This Site
-[日本語　第1章～第10章](jp/rlmt_intro_ja.md).
 
-[English section 1 - 10](en/rlmt_intro.md).
+[日本語](jp/about_this_site_ja.md).
+[English](en/about_this_site.md).
 
 ---
 This site provides the full documentation of  
