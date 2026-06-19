@@ -17,6 +17,7 @@ Welcome to the official documentation site.
 ## 📘 RLMT 
 ## About This Site
 [日本語　第1章～第10章](jp/rlmt_intro.md).
+
 [English section 1 - 10](en/rlmt_intro.md).
 
 ---
