@@ -25,4 +25,4 @@ A list of RLMT Volumes 0 to the latest volume and DOI links can be found here:
 
 ## Language
 - **English** (Current)
-- [Japanese](jp/index_ja.md)
+- [Japanese](/jp/index_ja.md)
