@@ -1,92 +1,126 @@
-Volume 0 — “CUP, Information Flow, and Higher-Layer Mode Theory”
-DOI: https://doi.org/10.5281/zenodo.20605177  
-Title: CUP, Information Flow, and Higher-Layer Mode Theory
-Summary: Introduces CUP, AUP/MUP projection, higher-layer overlap, and information circulation as the foundation of RLMT.
+## Volume 0 — “CUP, Information Flow, and Higher-Layer Mode Theory”
+**DOI:** https://doi.org/10.5281/zenodo.20605177  
+**Title:** CUP, Information Flow, and Higher-Layer Mode Theory
+**Summary:** Introduces CUP, AUP/MUP projection, higher-layer overlap, and information circulation as the foundation of RLMT.
 
-Volume I — “Projection, Stability, and Higher-layer Dynamics”
-DOI: https://doi.org/10.5281/zenodo.20619384  
-Title: Projection, Stability, and Higher-layer Dynamics
-Summary: Defines projection operators, fiber structure, mode stability, and AUP/MUP dynamics as geometric projections of higher layers.
+---
 
-Volume II — “Higher-layer Geometry and Curvature Dynamics”
-DOI: https://doi.org/10.5281/zenodo.20635201  
-Title: Higher-layer Geometry and Curvature Dynamics
-Summary: Develops the geometry of the higher-layer manifold, including curvature, torsion, and projection-induced physical effects.
+## Volume I — “Projection, Stability, and Higher-layer Dynamics”
+**DOI:** https://doi.org/10.5281/zenodo.20619384  
+**Title:** Projection, Stability, and Higher-layer Dynamics
+**Summary:** Defines projection operators, fiber structure, mode stability, and AUP/MUP dynamics as geometric projections of higher layers.
 
-Volume III — “The Generative Equations of the Universe”
-DOI: https://doi.org/10.5281/zenodo.20635227  
-Title: The Generative Equations of the Universe
-Summary: Introduces Small-AUP/MUP, CUP formation, CUP bifurcation, and early-universe generative dynamics.
+---
 
-Volume IV — “Dynamic Evolution of the Universe”
-DOI: https://doi.org/10.5281/zenodo.20635250  
-Title: Dynamic Evolution of the Universe
-Summary: Derives the dynamic R-layer equation, unifying inflation, expansion, structure formation, and gravitational waves.
+## Volume II — “Higher-layer Geometry and Curvature Dynamics”
+**DOI:** https://doi.org/10.5281/zenodo.20635201  
+**Title:** Higher-layer Geometry and Curvature Dynamics
+**Summary:** Develops the geometry of the higher-layer manifold, including curvature, torsion, and projection-induced physical effects.
 
-Volume V — “Cosmic Asymmetry and Domain Wall Cosmology”
-DOI: https://doi.org/10.5281/zenodo.20635264  
-Title: Cosmic Asymmetry and Domain Wall Cosmology
-Summary: Mode field φ generates asymmetric vacua, domain walls, and MOND-like structure without dark matter.
+---
 
-Volume VI — “Internal Bound States on Domain Walls”
-DOI: https://doi.org/10.5281/zenodo.20673909  
-Title: Internal Bound States on Domain Walls
-Summary: Shows how bound states on domain walls generate three generations and mass hierarchy.
+## Volume III — “The Generative Equations of the Universe”
+**DOI:** https://doi.org/10.5281/zenodo.20635227  
+**Title:** The Generative Equations of the Universe
+**Summary:** Introduces Small-AUP/MUP, CUP formation, CUP bifurcation, and early-universe generative dynamics.
 
-Volume VII — “Matter Fields, Gauge Structure, and Wall-Localized Modes”
-DOI: https://doi.org/10.5281/zenodo.20673924  
-Title: Matter Fields, Gauge Structure, and Wall-Localized Modes
-Summary: Derives gauge structure and Yukawa couplings from wall geometry and internal mode overlap.
+---
 
-Volume VIII — “Effective Field Construction of Wall-Localized Modes”
-DOI: https://doi.org/10.5281/zenodo.20684553  
-Title: Effective Field Construction of Wall-Localized Modes
-Summary: Builds the effective 4D action, mass matrices, mixing, and renormalization for wall-localized modes.
+## Volume IV — “Dynamic Evolution of the Universe”
+**DOI:** https://doi.org/10.5281/zenodo.20635250  
+**Title:** Dynamic Evolution of the Universe
+**Summary:** Derives the dynamic R-layer equation, unifying inflation, expansion, structure formation, and gravitational waves.
 
-Volume IX — “Unified Theory of Gravity, Matter, and Gauge Structure”
-DOI: https://doi.org/10.5281/zenodo.20684612  
-Title: Unified Theory of Gravity, Matter, and Gauge Structure
-Summary: Unifies gravity, matter, and gauge fields as emergent structures of the mode field φ.
+---
 
-Volume X — “Quantization and Observational Signatures”
-DOI: https://doi.org/10.5281/zenodo.20684630  
-Title: Quantization and Observational Signatures
-Summary: Analyzes quantization, wall stability, CMB signatures, lensing, and particle-physics predictions.
+## Volume V — “Cosmic Asymmetry and Domain Wall Cosmology”
+**DOI:** https://doi.org/10.5281/zenodo.20635264  
+**Title:** Cosmic Asymmetry and Domain Wall Cosmology
+**Summary:** Mode field φ generates asymmetric vacua, domain walls, and MOND-like structure without dark matter.
 
-Volume XI — “Deep Structure of the R-layer and the Generative Origin of Physical Laws”
-DOI: https://doi.org/10.5281/zenodo.20684651  
-Title: Deep Structure of the R-layer and the Generative Origin of Physical Laws
-Summary: Introduces the generative equation producing walls, modes, gauge structure, and physical laws.
+---
 
-Volume XII — “A Tension-Driven Framework for Anisotropic and Scale-Dependent Cosmic Expansion”
-DOI: https://doi.org/10.5281/zenodo.20700592  
-Title: A Tension-Driven Framework for Anisotropic and Scale-Dependent Cosmic Expansion
-Summary: Proposes tension-driven cosmology explaining Hubble tension, anisotropies, and void-driven acceleration.
+## Volume VI — “Internal Bound States on Domain Walls”
+**DOI:** https://doi.org/10.5281/zenodo.20673909  
+**Title:** Internal Bound States on Domain Walls
+**Summary:** Shows how bound states on domain walls generate three generations and mass hierarchy.
 
-Volume XIII — “Quantum Tension Cosmology and Observational Predictions”
-DOI: https://doi.org/10.5281/zenodo.20700636  
-Title: Quantum Tension Cosmology and Observational Predictions
-Summary: Develops quantum tension cores, S2 orbit predictions, EHT signatures, and tension-driven acceleration.
+---
 
-Volume XIV — “Quantum Information Structure of the R-layer”
-DOI: https://doi.org/10.5281/zenodo.20700671  
-Title: Quantum Information Structure of the R-layer
-Summary: Introduces R-qubits, entanglement hierarchy, holography, and cognitive analogies.
+## Volume VII — “Matter Fields, Gauge Structure, and Wall-Localized Modes”
+**DOI:** https://doi.org/10.5281/zenodo.20673924  
+**Title:** Matter Fields, Gauge Structure, and Wall-Localized Modes
+**Summary:** Derives gauge structure and Yukawa couplings from wall geometry and internal mode overlap.
 
-Volume XV — “Dynamic Tension, Central Reorganization, and Early Cosmic Maturation”
-DOI: https://doi.org/10.5281/zenodo.20710206  
-Title: Dynamic Tension, Central Reorganization, and Early Cosmic Maturation
-Summary: Derives nonlinear tension dynamics, R-waves, early condensation, and galaxy-core restructuring.
+---
 
-Volume XVI — “Coupling Between R-layer and Matter Fields”
-DOI: https://doi.org/10.5281/zenodo.20710284  
-Title: Coupling Between R-layer and Matter Fields
-Summary: Explains how tension fields generate matter, stabilize reality, and produce information fixation.
+## Volume VIII — “Effective Field Construction of Wall-Localized Modes”
+**DOI:** https://doi.org/10.5281/zenodo.20684553  
+**Title:** Effective Field Construction of Wall-Localized Modes
+**Summary:** Builds the effective 4D action, mass matrices, mixing, and renormalization for wall-localized modes.
 
-Volume XVII — “Evolution of Information Structures from Particles to Cosmic Civilizations”
-DOI: https://doi.org/10.5281/zenodo.20710370  
-Title: Evolution of Information Structures from Particles to Cosmic Civilizations
-Summary: Unifies particle modes, observers, societies, civilizations, and cosmic information networks.
+---
+
+## Volume IX — “Unified Theory of Gravity, Matter, and Gauge Structure”
+**DOI:** https://doi.org/10.5281/zenodo.20684612  
+**Title:** Unified Theory of Gravity, Matter, and Gauge Structure
+**Summary:** Unifies gravity, matter, and gauge fields as emergent structures of the mode field φ.
+
+---
+
+## Volume X — “Quantization and Observational Signatures”
+**DOI:** https://doi.org/10.5281/zenodo.20684630  
+**Title:** Quantization and Observational Signatures
+**Summary:** Analyzes quantization, wall stability, CMB signatures, lensing, and particle-physics predictions.
+
+---
+
+## Volume XI — “Deep Structure of the R-layer and the Generative Origin of Physical Laws”
+**DOI:** https://doi.org/10.5281/zenodo.20684651  
+**Title:** Deep Structure of the R-layer and the Generative Origin of Physical Laws
+**Summary:** Introduces the generative equation producing walls, modes, gauge structure, and physical laws.
+
+---
+
+## Volume XII — “A Tension-Driven Framework for Anisotropic and Scale-Dependent Cosmic Expansion”
+**DOI:** https://doi.org/10.5281/zenodo.20700592  
+**Title:** A Tension-Driven Framework for Anisotropic and Scale-Dependent Cosmic Expansion
+**Summary:** Proposes tension-driven cosmology explaining Hubble tension, anisotropies, and void-driven acceleration.
+
+---
+
+## Volume XIII — “Quantum Tension Cosmology and Observational Predictions”
+**DOI:** https://doi.org/10.5281/zenodo.20700636  
+**Title:** Quantum Tension Cosmology and Observational Predictions
+**Summary:** Develops quantum tension cores, S2 orbit predictions, EHT signatures, and tension-driven acceleration.
+
+---
+
+## Volume XIV — “Quantum Information Structure of the R-layer”
+**DOI:** https://doi.org/10.5281/zenodo.20700671  
+**Title:** Quantum Information Structure of the R-layer
+**Summary:** Introduces R-qubits, entanglement hierarchy, holography, and cognitive analogies.
+
+---
+
+## Volume XV — “Dynamic Tension, Central Reorganization, and Early Cosmic Maturation”
+**DOI:** https://doi.org/10.5281/zenodo.20710206  
+**Title:** Dynamic Tension, Central Reorganization, and Early Cosmic Maturation
+**Summary:** Derives nonlinear tension dynamics, R-waves, early condensation, and galaxy-core restructuring.
+
+---
+
+## Volume XVI — “Coupling Between R-layer and Matter Fields”
+**DOI:** https://doi.org/10.5281/zenodo.20710284  
+**Title:** Coupling Between R-layer and Matter Fields
+**Summary:** Explains how tension fields generate matter, stabilize reality, and produce information fixation.
+
+---
+
+## Volume XVII — “Evolution of Information Structures from Particles to Cosmic Civilizations”
+**DOI:** https://doi.org/10.5281/zenodo.20710370  
+**Title:** Evolution of Information Structures from Particles to Cosmic Civilizations
+**Summary:** Unifies particle modes, observers, societies, civilizations, and cosmic information networks.
 
 ---
 
