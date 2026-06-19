@@ -92,10 +92,10 @@ Purity は Appendix X の中心概念であり、
 | Small-AUP | 1 | 0 | +1 | minimal AUP | 最小反物質モード |
 | Small-MUP | 0 | 1 | -1 | minimal MUP | 最小物質モード |
 | CUP | 1 | 1 | 0 | neutral | 最初の安定複合モード |
-| Large-AUP | 2 | 1 | +1/3 | AUP-biased | CUP + Small-AUP |
-| Large-MUP | 1 | 2 | -1/3 | MUP-biased | CUP + Small-MUP |
+| Large-AUP | 2 | 1 | +1/3 | AUP-biased | small-MUP + Small-AUP + small-AUP|
+| Large-MUP | 1 | 2 | -1/3 | MUP-biased | small-AUP + Small-MUP + small-MUP|
 
-Large-AUP/MUP は CUP に Small-mode が付加された構造であり、  
+Large-AUP/MUP は smal-AUP + smaoll-MUP に Small-AUP/MUP mode が付加された構造であり、  
 Appendix X では「非対称複合モード」として扱われる。
 
 ---
