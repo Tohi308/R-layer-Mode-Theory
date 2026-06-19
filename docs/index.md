@@ -1,7 +1,3 @@
----
-layout: default
-title: R-layer Mode Theory
----
 # R-layer Mode Theory
 
 Welcome to the official documentation site.
