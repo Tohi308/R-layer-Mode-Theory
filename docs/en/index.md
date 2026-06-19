@@ -7,7 +7,7 @@ A metageometric theoretical system developed through independent research
 ## 🔷 What is RLMT?
 R-layer Mode Theory (RLMT) is a high-dimensional tension field theory that unifies quantum nonlocality, cosmology, black hole information, and civilization dynamics.
 
-→ [Introduction to RLMT](rlmt-intro.md)
+→ [Introduction to RLMT](rlmt_intro.md)
 
 ---
 
