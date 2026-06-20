@@ -41,14 +41,14 @@ To be announced
 
 ---
 
-## Personal Motto
+## Personal Motto / モットー
 **The universe is built from a single, extremely simple equation.**
 
-## モットー
 **宇宙は、すごく単純な一つの方程式からできている。**
+
 ---
 
-## About Me
+## About Me / 自己紹介
 
 Current physics identifies about 17 elementary particles, including quarks and leptons.  
 However, the idea that “the smallest building blocks of nature” come in 17 types feels unnecessarily complicated.
@@ -61,8 +61,6 @@ My research, **R-layer Mode Theory**, explores this possibility.
 
 
 
-## 自己紹介
-
 現在の物理学では、クォークやレプトンなど約 17 種類の素粒子が確認されています。  
 しかし「最小単位なのに 17 種類もある」という事実は、むしろ複雑すぎると感じています。
 
@@ -73,6 +71,5 @@ My research, **R-layer Mode Theory**, explores this possibility.
 重力、ダークマター、ダークエネルギーといった  
 現代物理学の最大の謎も、より単純で統一的に説明できるはずです。
 
-私の研究である **R-layer モード理論（RLMT）** は
-、この可能性を探る試みです。
+私の研究である **R-layer モード理論（RLMT）** は、この可能性を探る試みです。
 
