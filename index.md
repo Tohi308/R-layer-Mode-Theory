@@ -19,7 +19,7 @@ Welcome to the official documentation site.
 [📄 Profile / プロフィール](en/profile.md)  
  
 [📘 RLMT 日本語版](jp/index_ja.md)  
-[📙 RLMT English Edition](en/index.md)
+[📙 RLMT English Edition](en/index_en.md)
 
 ---
 
