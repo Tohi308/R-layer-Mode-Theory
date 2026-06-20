@@ -1,8 +1,3 @@
----
-layout: default
-title: R-layer Mode Theory
----
-
 <header class="fixed-header">
   <div class="header-inner">
     <a href="/docs/index.md" class="home-button">Global Home</a>
