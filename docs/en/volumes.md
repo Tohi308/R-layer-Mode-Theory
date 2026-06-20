@@ -1,6 +1,6 @@
 <header class="fixed-header">
   <div class="header-inner">
-    <a href="/index.md" class="home-button">HOME</a>
+    <a href="../en/index.md" class="home-button">HOME</a>
     <span class="site-title">R-layer Mode Theory</span>
   </div>
 </header>
