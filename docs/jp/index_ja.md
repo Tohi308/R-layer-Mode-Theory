@@ -1,3 +1,15 @@
+<header class="fixed-header">
+  <div class="header-inner">
+    <a href="/docs/index.md" class="home-button">グローバル</a>
+    <a href="/docs/en/index.md" class="home-button">English</a>
+    <a href="/docs/jp/index_ja.md" class="home-button">日本語ホーム</a>
+    <span class="site-title">R-layer Mode Theory</span>
+  </div>
+</header>
+
+
+---
+
 # R-layer Mode Theory (RLMT)
 高次元テンション場の射影として宇宙を捉える  
 独立研究によるメタ幾何学的理論体系
