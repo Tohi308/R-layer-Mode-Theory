@@ -4,7 +4,10 @@
     <span class="site-title">R-layer Mode Theory</span>
   </div>
 </header>
-# RLMT 各巻一覧（日本語版）
+
+---
+
+## RLMT 各巻一覧（日本語版）
 
 以下は DOI が取得されている Volume の一覧です。  
 各巻は **4行構成（Volume名／DOI／タイトル／概要）** で記載しています。
