@@ -1,3 +1,9 @@
+<header class="fixed-header">
+  <div class="header-inner">
+    <a href="/index.md" class="home-button">ホーム</a>
+    <span class="site-title">R-layer Mode Theory</span>
+  </div>
+</header>
 ## Volume 0 — “CUP, Information Flow, and Higher-Layer Mode Theory”
 **DOI:** https://doi.org/10.5281/zenodo.20605177  
 **Title:** CUP, Information Flow, and Higher-Layer Mode Theory  
