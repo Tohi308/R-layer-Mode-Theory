@@ -25,7 +25,8 @@ R-layer Mode Theory（RLMT）は、
 
 ## 🔷 Volumes
 RLMT Volume 0 〜 最新巻までの一覧・DOIリンクはこちら：
-
+ ※一覧のタイトルと概要のみ日本語となっています。（本文は英語版です）
+ 
 → [Volume一覧](volumes_ja.md)
 
 ---
