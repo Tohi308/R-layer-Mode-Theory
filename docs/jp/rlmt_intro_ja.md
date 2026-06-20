@@ -4,6 +4,8 @@
     <span class="site-title">R-layer Mode Theory</span>
   </div>
 </header>
+
+
 # 第1章：R-layer Mode Theory（RLMT）とは何か
 
 R-layer Mode Theory（RLMT）は、高次元テンション場（tension field）を基礎とし、
