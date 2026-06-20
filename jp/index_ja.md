@@ -37,4 +37,4 @@ RLMT Volume 0 〜 最新巻までの一覧・DOIリンクはこちら：
 
 ## Language
 - **日本語**（現在）
-- [English](../en/index.md)
+- [English](/en/index.md)
