@@ -1,3 +1,9 @@
+<header class="fixed-header">
+  <div class="header-inner">
+    <a href="/index.md" class="home-button">ホーム</a>
+    <span class="site-title">R-layer Mode Theory</span>
+  </div>
+</header>
 # Chapter 1: What is R-layer Mode Theory (RLMT)?
 
 R-layer Mode Theory (RLMT) is a meta-geometric theoretical framework in which
