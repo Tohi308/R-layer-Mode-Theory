@@ -1,3 +1,9 @@
+<header class="fixed-header">
+  <div class="header-inner">
+    <a href="/index.md" class="home-button">ホーム</a>
+    <span class="site-title">R-layer Mode Theory</span>
+  </div>
+</header>
 # RLMT 各巻一覧（日本語版）
 
 以下は DOI が取得されている Volume の一覧です。  
