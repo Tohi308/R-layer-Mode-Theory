@@ -8,28 +8,28 @@
 </header>
 
 
+## このサイトについて
 
-## About This Site
+このサイトは、  
+**R-layer Mode Theory（RLMT）** の完全なドキュメントをまとめたものです。
 
-This site provides the complete documentation of  
-**R-layer Mode Theory (RLMT)** — a unified framework that connects
+RLMT は次の構造を統合する理論です。
 
-- the internal mode structure (AUP / MUP / CUP)  
-- the information geometry of the R-layer  
-- the higher-dimensional manifold X  
-- the Layer Hierarchy (220–227)  
-- the effective field theory AUP EFT  
-- the Reprojection Cycle
+- AUP / MUP / CUP による内部モード構造  
+- R-layer が表す情報幾何学  
+- 高次元構造 X（Appendix W）  
+- レイヤー階層 220–227  
+- 高次元アクセスのための AUP EFT  
+- Reprojection（再投影サイクル）
 
-RLMT proposes that the universe is not built from 17 elementary particles,  
-but from only **two fundamental modes** arranged in structured combinations.
+RLMT は、宇宙が 17 種類の素粒子から構成されるのではなく、  
+**わずか 2 種類の基本モードの組み合わせ**で成り立つ可能性を示します。
 
-The purpose of this site is to present:
+このサイトでは以下を提供します。
 
-- the full RLMT theory in both English  
-- all 10 chapters of the main text  
-- appendices (X, Y, W)  
-- research notes and updates  
-- links to external publications (Zenodo, ORCID, GitHub)
+- RLMT 本文 の英語版  
+- Appendix X / Y / W の内容  
+- 研究ノートや更新情報  
+- Zenodo / ORCID / GitHub など外部リンク
 
-This documentation is continuously updated as the theory develops.
+理論の進展に合わせて、内容は随時更新されます。
