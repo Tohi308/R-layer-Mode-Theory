@@ -61,6 +61,7 @@ My research, **R-layer Mode Theory**, explores this possibility.
 
 
 
+
 現在の物理学では、クォークやレプトンなど約 17 種類の素粒子が確認されています。  
 しかし「最小単位なのに 17 種類もある」という事実は、むしろ複雑すぎると感じています。
 
