@@ -1,3 +1,14 @@
+<header class="fixed-header">
+  <div class="header-inner">
+    <a href="/docs/index.md" class="home-button">Global Home</a>
+    <a href="/docs/en/index.md" class="home-button">English Home</a>
+    <a href="/docs/jp/index_ja.md" class="home-button">日本語</a>
+    <span class="site-title">R-layer Mode Theory</span>
+  </div>
+</header>
+
+---
+
 # R-layer Mode Theory (RLMT)
 Understanding the universe as a projection of high-dimensional tension fields
 A metageometric theoretical system developed through independent research
