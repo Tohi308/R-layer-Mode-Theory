@@ -22,7 +22,7 @@ This site provides the complete documentation of
 - the effective field theory AUP EFT  
 - the Reprojection Cycle
 
-RLMT proposes that the universe is not built from 15 elementary particles,  
+RLMT proposes that the universe is not built from 17 elementary particles,  
 but from only **two fundamental modes** arranged in structured combinations.
 
 The purpose of this site is to present:
