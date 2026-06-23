@@ -32,8 +32,7 @@ z-index: 999;
 </a>
 
 <div class="volume-block">
-<details>
-<summary><strong>R-layer Mode Theory 0</strong></summary>
+
 
 '0000000  
 ## R-layer Mode Theory 0  
