@@ -45,3 +45,9 @@
 body {
   padding-top: 70px;
 }
+
+/* 見出しが固定ヘッダーに隠れないようにする */
+h1, h2, h3, h4, h5, h6 {
+  scroll-margin-top: 80px;
+}
+
