@@ -1,6 +1,3 @@
----
-layout: default
----
 <!-- 固定ヘッダー -->
 <header class="fixed-header">
   <div class="header-inner">
