@@ -33,7 +33,7 @@ z-index: 999;
 
 <div class="volume-block">
 
-
+  
 '0000000  
 ## R-layer Mode Theory 0  
 **DOI:** https://doi.org/10.5281/zenodo.20605177  
