@@ -32,7 +32,8 @@ z-index: 999;
 </a>
 
 <div class="volume-block">
-**Summary:** <span class="summary">Introduces the foundational structure...</span>
+<details>
+<summary><strong>R-layer Mode Theory 0</strong></summary>
 
 '0000000  
 ## R-layer Mode Theory 0  
