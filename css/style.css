@@ -57,3 +57,18 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 1.4rem;
 }
 
+.volume-block {
+  margin-bottom: 2.2rem;
+}
+
+a {
+  color: #4da3ff;
+}
+a:hover {
+  color: #82c0ff;
+}
+
+.summary {
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
