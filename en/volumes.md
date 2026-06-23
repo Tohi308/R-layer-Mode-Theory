@@ -32,7 +32,7 @@ z-index: 999;
 </a>
 
 
-data 0000000:std  700000:appendix 8000000:∞ 9000000:Supplement 6010000:preprint  
+
 '0000000  
 ## R-layer Mode Theory 0  
 **DOI:** https://doi.org/10.5281/zenodo.20605177  
