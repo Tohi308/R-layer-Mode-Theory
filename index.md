@@ -10,6 +10,23 @@
 
 # R-layer Mode Theory
 
+---
+
+## About RLMT (Version 2.0)
+
+R-layer Mode Theory (RLMT) is a unified continuous framework describing
+mode-density fields, information geometry, and higher-dimensional projection
+structure. Appendix X-II (Version 2.0) establishes the continuous foundation of
+RLMT, replacing all discrete AUP/MUP mode counts with mode-density integrals.
+
+## RLMTについて (Version 2.0)
+
+R-layer Mode Theory（RLMT）は、連続モード密度・情報幾何学・高次元射影構造を統合する
+統一理論です。Appendix X-II（Version 2.0）により、離散的AUP/MUPモード数はすべて
+連続モード密度積分として再解釈されます。
+
+---
+
 Welcome to the official documentation site.
 
 ---
