@@ -1,26 +1,14 @@
-<header class="fixed-header">
-  <div class="header-inner">
-    <a href="/R-layer-Mode-Theory/index.html" class="home-button">Global Home</a>
-    <a href="/R-layer-Mode-Theory/en/index_en.html" class="home-button">English</a>
-    <a href="/R-layer-Mode-Theory/jp/index_ja.html" class="home-button">日本語</a>
-    <span class="site-title">R-layer Mode Theory</span>
-  </div>
-</header>
-
+[Global Home](/R-layer-Mode-Theory/index.html) · [English](/R-layer-Mode-Theory/en/index_en.html) · [日本語](/R-layer-Mode-Theory/jp/index_ja.html)
 
 ---
 
 ## このサイトについて
 
-このサイトは、Tsuyoshi Tohi による独立研究 R-layer Mode Theory（RLMT）を、英語と日本語で
-紹介するものです。
+このサイトは、Tsuyoshi Tohi による独立研究 R-layer Mode Theory（RLMT）を、英語と日本語で紹介するものです。
 
-- **現在の状況と論文。** 2026 年 7 月からは、RLMT の予言を宇宙論のデータ（Planck・ACT・
-  DESI・Pantheon+）に公開尤度で当てはめています。「RLMT: ...」の論文では、否定的な結果や
-  訂正も含めてすべての結果を報告し、各 Zenodo の記録にコードを添付しています。
+- **現在の状況と論文。** 2026 年 7 月からは、RLMT の予言を宇宙論のデータ（Planck・ACT・DESI・Pantheon+）に公開尤度で当てはめています。「RLMT: ...」の論文では、否定的な結果や訂正も含めてすべての結果を報告し、各 Zenodo の記録にコードを添付しています。
   → [RLMT トップ](index_ja.md)
-- **アーカイブ。** 2026 年 3〜7 月に書いた理論だけの Volumes は、RLMT の発展の記録として
-  残しています。論文と食い違う場合は、論文を優先します。→ [Volume 一覧](volumes_ja.md)
+- **アーカイブ。** 2026 年 3〜7 月に書いた理論だけの Volumes は、RLMT の発展の記録として残しています。論文と食い違う場合は、論文を優先します。→ [Volume 一覧](volumes_ja.md)
 
 ---
 

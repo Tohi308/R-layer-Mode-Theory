@@ -1,12 +1,4 @@
-<!-- 固定ヘッダー -->
-<header class="fixed-header">
-  <div class="header-inner">
-    <a href="/R-layer-Mode-Theory/index.html" class="home-button">Global Home</a>
-    <a href="/R-layer-Mode-Theory/en/index_en.html" class="home-button">English</a>
-    <a href="/R-layer-Mode-Theory/jp/index_ja.html" class="home-button">日本語</a>
-    <span class="site-title">R-layer Mode Theory</span>
-  </div>
-</header>
+[Global Home](/R-layer-Mode-Theory/index.html) · [English](/R-layer-Mode-Theory/en/index_en.html) · [日本語](/R-layer-Mode-Theory/jp/index_ja.html)
 
 <!-- ページ先頭アンカー -->
 <a id="top"></a>
@@ -33,9 +25,7 @@ z-index: 999;
 
 # RLMT 各巻一覧（アーカイブ、2026 年）
 
-各巻は RLMT の発展の記録です（RLMT は 2026 年 3 月 16 日に初めて文書化）。理論だけの文書で、
-データには当てはめていません。2026 年 7 月からは理論をデータで検証しており、巻の内容が
-「RLMT: ...」の論文と食い違う場合は論文を優先します。[現在の状況と 2026 年の論文](index_ja.md)を参照してください。
+各巻は RLMT の発展の記録です（RLMT は 2026 年 3 月 16 日に初めて文書化）。理論だけの文書で、データには当てはめていません。2026 年 7 月からは理論をデータで検証しており、巻の内容が「RLMT: ...」の論文と食い違う場合は論文を優先します。[現在の状況と 2026 年の論文](index_ja.md)を参照してください。
 
 ---
 
