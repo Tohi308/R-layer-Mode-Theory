@@ -1,12 +1,4 @@
-<header class="fixed-header">
-  <div class="header-inner">
-    <a href="/R-layer-Mode-Theory/index.html" class="home-button">Global Home</a>
-    <a href="/R-layer-Mode-Theory/en/index_en.html" class="home-button">English</a>
-    <a href="/R-layer-Mode-Theory/jp/index_ja.html" class="home-button">日本語</a>
-    <span class="site-title">R-layer Mode Theory</span>
-  </div>
-</header>
-
+[Global Home](/R-layer-Mode-Theory/index.html) · [English](/R-layer-Mode-Theory/en/index_en.html) · [日本語](/R-layer-Mode-Theory/jp/index_ja.html)
 
 # R-layer Mode Theory (RLMT)
 An independent research program in theoretical cosmology by Tsuyoshi Tohi.
@@ -34,16 +26,22 @@ earlier Volume, the 2026 papers take precedence (see *Archive* below).
 - **Shortcuts through the R-direction.** Constrained by GW170817 to be of no practical use.
 
 ## 🔷 Papers (2026)
-| Paper | DOI / status |
-|---|---|
-| RLMT: Lindblad Cosmogenesis, SU(2) Geometry, and a Numerical Confrontation with Planck 2018 Data (parent paper, v2) | [10.51094/jxiv.5386](https://doi.org/10.51094/jxiv.5386) · [10.5281/zenodo.23131099](https://doi.org/10.5281/zenodo.23131099) |
-| RLMT: A Representation-Theoretic Origin for the Mode Amplitude Coefficients, and a Negative Result for Tensor-Sector Coupling (v2) | [10.51094/jxiv.6151](https://doi.org/10.51094/jxiv.6151) · [10.5281/zenodo.23131180](https://doi.org/10.5281/zenodo.23131180) |
-| RLMT and the Hubble Tension: Primordial and Late-Time Ω-Layer Tests against Planck, DESI DR2 and Pantheon+, with Methodological Corrections (v2) | [10.5281/zenodo.23256418](https://doi.org/10.5281/zenodo.23256418) · Jxiv 6690 under review |
-| RLMT: A numerical audit of hi_class for a table-driven MTFE/RLMT background: consistency identities, a regularization floor, and the resulting σ8 | Jxiv 6630 under review |
-| RLMT: The Conformally Coupled Layer-2 Scalar Is Exactly Dark Radiation | [10.5281/zenodo.23272537](https://doi.org/10.5281/zenodo.23272537) · Jxiv 6786 under review |
-| RLMT: Does the R-Layer Define a Preferred Foliation? A Nonequilibrium Three-Mode Clock and Its Ghost-Condensate Limit | [10.5281/zenodo.23274007](https://doi.org/10.5281/zenodo.23274007) |
-| RLMT: Do Shortcuts Through the R-Direction Exist? Constraints from GW170817 and the Layered Expansion of Vol. XLI-L | [10.5281/zenodo.23275612](https://doi.org/10.5281/zenodo.23275612) |
-| RLMT: Reading the Primordial Fossils of RLMT-lite (v1.1) | [10.5281/zenodo.23293066](https://doi.org/10.5281/zenodo.23293066) |
+- **RLMT: Lindblad Cosmogenesis, SU(2) Geometry, and a Numerical Confrontation with Planck 2018 Data** (parent paper, v2)  
+  [10.51094/jxiv.5386](https://doi.org/10.51094/jxiv.5386) · [10.5281/zenodo.23131099](https://doi.org/10.5281/zenodo.23131099)
+- **RLMT: A Representation-Theoretic Origin for the Mode Amplitude Coefficients, and a Negative Result for Tensor-Sector Coupling** (v2)  
+  [10.51094/jxiv.6151](https://doi.org/10.51094/jxiv.6151) · [10.5281/zenodo.23131180](https://doi.org/10.5281/zenodo.23131180)
+- **RLMT and the Hubble Tension: Primordial and Late-Time Ω-Layer Tests against Planck, DESI DR2 and Pantheon+, with Methodological Corrections** (v2)  
+  [10.5281/zenodo.23256418](https://doi.org/10.5281/zenodo.23256418) · Jxiv 6690 under review
+- **RLMT: A numerical audit of hi_class for a table-driven MTFE/RLMT background: consistency identities, a regularization floor, and the resulting σ8**  
+  Jxiv 6630 under review
+- **RLMT: The Conformally Coupled Layer-2 Scalar Is Exactly Dark Radiation**  
+  [10.5281/zenodo.23272537](https://doi.org/10.5281/zenodo.23272537) · Jxiv 6786 under review
+- **RLMT: Does the R-Layer Define a Preferred Foliation? A Nonequilibrium Three-Mode Clock and Its Ghost-Condensate Limit**  
+  [10.5281/zenodo.23274007](https://doi.org/10.5281/zenodo.23274007)
+- **RLMT: Do Shortcuts Through the R-Direction Exist? Constraints from GW170817 and the Layered Expansion of Vol. XLI-L**  
+  [10.5281/zenodo.23275612](https://doi.org/10.5281/zenodo.23275612)
+- **RLMT: Reading the Primordial Fossils of RLMT-lite** (v1.1)  
+  [10.5281/zenodo.23293066](https://doi.org/10.5281/zenodo.23293066)
 
 Code for each paper is attached to its Zenodo record.
 The ΔAIC values above count five identifiable extra parameters (error record ERR-006);

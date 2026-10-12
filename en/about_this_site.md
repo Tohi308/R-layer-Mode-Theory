@@ -1,12 +1,4 @@
-<header class="fixed-header">
-  <div class="header-inner">
-    <a href="/R-layer-Mode-Theory/index.html" class="home-button">Global Home</a>
-    <a href="/R-layer-Mode-Theory/en/index_en.html" class="home-button">English</a>
-    <a href="/R-layer-Mode-Theory/jp/index_ja.html" class="home-button">日本語</a>
-    <span class="site-title">R-layer Mode Theory</span>
-  </div>
-</header>
-
+[Global Home](/R-layer-Mode-Theory/index.html) · [English](/R-layer-Mode-Theory/en/index_en.html) · [日本語](/R-layer-Mode-Theory/jp/index_ja.html)
 
 ---
 

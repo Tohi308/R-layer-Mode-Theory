@@ -1,12 +1,4 @@
-<!-- 固定ヘッダー -->
-<header class="fixed-header">
-  <div class="header-inner">
-    <a href="/R-layer-Mode-Theory/index.html" class="home-button">Global Home</a>
-    <a href="/R-layer-Mode-Theory/en/index_en.html" class="home-button">English</a>
-    <a href="/R-layer-Mode-Theory/jp/index_ja.html" class="home-button">日本語</a>
-    <span class="site-title">R-layer Mode Theory</span>
-  </div>
-</header>
+[Global Home](/R-layer-Mode-Theory/index.html) · [English](/R-layer-Mode-Theory/en/index_en.html) · [日本語](/R-layer-Mode-Theory/jp/index_ja.html)
 
 <!-- ページ先頭アンカー -->
 <a id="top"></a>
@@ -378,7 +370,7 @@ where a Volume conflicts with the papers titled "RLMT: ...", the papers take pre
 ## R-layer Mode Theory XLI-A
 **DOI:** [10.5281/zenodo.20783808](https://doi.org/10.5281/zenodo.20783808)  
 **Title:** R-layer Mode Theory XLI-A: Observational Determination of the Disc Edge and the Hierarchical Index  
-**Summary:** Identifies the Milky Way disc edge (12 kpc) with the R-layer outer radius R\, derives the hierarchical index α = R\/Rd ≈ 3, and connects disc-break universality with R-layer tension-field structure.  
+**Summary:** Identifies the Milky Way disc edge (12 kpc) with the R-layer outer radius R, derives the hierarchical index α = R/R_d ≈ 3, and connects disc-break universality with R-layer tension-field structure.  
 
 ---
 
@@ -917,14 +909,14 @@ where a Volume conflicts with the papers titled "RLMT: ...", the papers take pre
 ## R-layer Mode Theory Appendix V
 **DOI:** [10.5281/zenodo.20805417](https://doi.org/10.5281/zenodo.20805417)  
 **Title:** Unified Spectral Foundations and Eigenvalue Hierarchy in R-layer Mode Theory  
-**Summary:** This volume develops the rigorous spectral foundations of the tension operator Σ,including its self-adjoint realization, spectral resolution, Weyl-type asymptotics, spectral density, and gap scaling. These results establish the mathematical backbone underlying all RLMT volumes and unify observational, geometric, quantum, informational, and cosmological applications through the eigenvalue hierarchy {λn}.  
+**Summary:** This volume develops the rigorous spectral foundations of the tension operator Σ, including its self-adjoint realization, spectral resolution, Weyl-type asymptotics, spectral density, and gap scaling. These results establish the mathematical backbone underlying all RLMT volumes and unify observational, geometric, quantum, informational, and cosmological applications through the eigenvalue hierarchy {λn}.  
 
 ---
 
 ## R-layer Mode Theory Appendix V-A
 **DOI:** [10.5281/zenodo.20805436](https://doi.org/10.5281/zenodo.20805436)  
 **Title:** Modular Theory and Relative Layered Entropy in R-layer Mode Theory  
-**Summary:** This appendix develops a modular-theoretic extension of RLMT by introducing relative modular Hamiltonians and relative layered entropy associated with the tension operator Σ and its eigenvalue hierarchy. It establishes entropy monotonicity for nested layer subsets, analyzes coherent layered states, and provides a rigorous operator-algebraicframework linking RLMT to modern developments in algebraic QFT.  
+**Summary:** This appendix develops a modular-theoretic extension of RLMT by introducing relative modular Hamiltonians and relative layered entropy associated with the tension operator Σ and its eigenvalue hierarchy. It establishes entropy monotonicity for nested layer subsets, analyzes coherent layered states, and provides a rigorous operator-algebraic framework linking RLMT to modern developments in algebraic QFT.  
 
 ---
 
