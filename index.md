@@ -1,4 +1,5 @@
-</header>
+[RLMT — English](/R-layer-Mode-Theory/en/index_en.html) · [RLMT — 日本語](/R-layer-Mode-Theory/jp/index_ja.html)
+
 
 
 # R-layer Mode Theory
@@ -10,9 +11,7 @@ results and corrections are reported in full. So far ΛCDM is preferred and the 
 neither exclude nor require RLMT's predictions. Summary and the 2026 papers:
 [English](en/index_en.md) · [日本語](jp/index_ja.md)
 
-2026 年 7 月からは RLMT をデータ（Planck・ACT・DESI・Pantheon+）で検証し、否定的な結果や訂正も
-すべて報告しています。現時点では ΛCDM が有利で、データは RLMT の予言を排除も要求もしていません。
-まとめと 2026 年の論文は上のリンクから。
+2026 年 7 月からは RLMT をデータ（Planck・ACT・DESI・Pantheon+）で検証し、否定的な結果や訂正もすべて報告しています。現時点では ΛCDM が有利で、データは RLMT の予言を排除も要求もしていません。まとめと 2026 年の論文は上のリンクから。
 
 ---
 
@@ -39,6 +38,4 @@ RLMT, replacing all discrete AUP/MUP mode counts with mode-density integrals.
 
 ### RLMTについて (Version 2.0)
 
-R-layer Mode Theory（RLMT）は、連続モード密度・情報幾何学・高次元射影構造を統合する
-統一理論です。Appendix X-II（Version 2.0）により、離散的AUP/MUPモード数はすべて
-連続モード密度積分として再解釈されます。
+R-layer Mode Theory（RLMT）は、連続モード密度・情報幾何学・高次元射影構造を統合する統一理論です。Appendix X-II（Version 2.0）により、離散的AUP/MUPモード数はすべて連続モード密度積分として再解釈されます。
