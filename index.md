@@ -4,14 +4,15 @@
 
 # R-layer Mode Theory
 
-## Current status (October 2026) / 現在の状況（2026年10月）
+## Current status (November 2026) / 現在の状況（2026年11月）
 
-Since July 2026 RLMT is tested against data (Planck, ACT, DESI, Pantheon+), and negative
-results and corrections are reported in full. So far ΛCDM is preferred and the data
-neither exclude nor require RLMT's predictions. Summary and the 2026 papers:
+Since July 2026 RLMT is tested against data (Planck, ACT, SPT, DESI, Pantheon+, DES), and negative
+results and corrections are reported in full. So far ΛCDM is preferred, the data
+neither exclude nor require RLMT's predictions, and no RLMT model tested moves H0 toward the
+local values. Summary and the 2026 papers:
 [English](en/index_en.md) · [日本語](jp/index_ja.md)
 
-2026 年 7 月からは RLMT をデータ（Planck・ACT・DESI・Pantheon+）で検証し、否定的な結果や訂正もすべて報告しています。現時点では ΛCDM が有利で、データは RLMT の予言を排除も要求もしていません。まとめと 2026 年の論文は上のリンクから。
+2026 年 7 月からは RLMT をデータ（Planck・ACT・SPT・DESI・Pantheon+・DES）で検証し、否定的な結果や訂正もすべて報告しています。現時点では ΛCDM が有利で、データは RLMT の予言を排除も要求もしていません。試したどの RLMT の模型も、H0 を局所の値に近づけません。まとめと 2026 年の論文は上のリンクから。
 
 ---
 
