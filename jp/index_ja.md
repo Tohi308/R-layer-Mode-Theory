@@ -17,7 +17,7 @@ Tsuyoshi Tohi による、理論宇宙論の独立研究です。2026 年 7 月�
 - **H0 = 73 に必要なもの。** 小さな代償でそこに届くのは、再結合の前に音の地平線を約 6.5% 縮める成分だけです。物質と放射の等量時に始まる早期暗黒エネルギーに、スケール不変なスペクトル（n_s = 1）を合わせると、SH0ES なしで H0 = 73.3 ± 0.5 になります。ただし S8 は 0.84〜0.85 に上がり、その代償は弱い重力レンズの観測により 1.8σ〜4.5σ と変わります。n_s を自由にすると、同じ模型の H0 は 70.1 ± 1.1 です。これは RLMT の模型ではありません。電子の質量を変える模型ではこれは再現されず、n_s = 1 では Δχ² が約 +71 悪くなります。
 - **早期の修正重力。** 共形結合した Layer-2 のスカラーは厳密に暗黒放射になります（否定的な結果）。
 - **宇宙定数。** Ω 層の Lindblad の散逸からは、観測される Λ は出ません（ユニモジュラーの機構で、内部の熱浴ならゼロ、de Sitter の地平線を熱浴とすると桁違いに大きすぎる）。
-- **暗黒セクターとしての Ω 層。** 電弱スケールの U(1)_T セクターとして実現すると、非弾性の暗黒物質の基準点、m_χ = 277 ± 8 GeV と 56.6 GeV の暗黒光子・暗黒ヒッグスを与えます。今の間接探索・宇宙論・加速器の制限を 2.5〜10.5 の余裕で通ります。層をより大きな SU(3) の表現に置いても、新しい数は決まりません（否定的な結果）。
+- **暗黒セクターとしての Ω 層。** 電弱スケールの U(1)_T セクターとして実現すると、非弾性の暗黒物質の基準点、m_χ = 277 ± 8 GeV と 56.6 GeV の暗黒光子・暗黒ヒッグスを与えます。今の間接探索・宇宙論・加速器の制限を 2.5〜10.5 の余裕で通ります。層をより大きな SU(3) の表現に置いても、新しい数は決まりません（否定的な結果）。この模型の低いスケールのインフレーションで n_s ≈ 0.963 になるのは 2% の調整をした場合で、調整しなければ n_s ≈ 1 です。その場合は早期の成分が必要ですが、RLMT はそれを与えません。
 - **R 方向の近道。** GW170817 の制限により、実用的な近道はありません。
 - **数値の道具。** hi_class の監査で、コードのいくつかの問題を見つけて直し、CLASS と hi_class の開発者に報告しました。
 
@@ -34,8 +34,8 @@ Tsuyoshi Tohi による、理論宇宙論の独立研究です。2026 年 7 月�
   [10.5281/zenodo.24211812](https://doi.org/10.5281/zenodo.24211812) · データとコード [10.5281/zenodo.23975271](https://doi.org/10.5281/zenodo.23975271)
 - **RLMT: From Lindblad Relaxation to the Primordial Spectrum: A de Sitter Cosmogenesis Map, Symmetric Base Spectra, and the Relaxation Exponent** （Lindblad 写像の論文、第 1.4 版）  
   [10.5281/zenodo.24095771](https://doi.org/10.5281/zenodo.24095771)
-- **RLMT: From a CMB fit to a testable dark sector — the Ω layer of R-layer Mode Theory as an electroweak-scale U(1)_T sector** （U(1)_T の論文、第 4 版）  
-  [10.5281/zenodo.24128196](https://doi.org/10.5281/zenodo.24128196)
+- **RLMT: From a CMB fit to a testable dark sector — the Ω layer of R-layer Mode Theory as an electroweak-scale U(1)_T sector** （U(1)_T の論文、第 5 版）  
+  [10.5281/zenodo.24213478](https://doi.org/10.5281/zenodo.24213478)
 - **RLMT: Reading the Primordial Fossils of RLMT-lite** （化石の論文、第 1.2 版）  
   [10.5281/zenodo.23354922](https://doi.org/10.5281/zenodo.23354922)
 - **RLMT: The Conformally Coupled Layer-2 Scalar Is Exactly Dark Radiation** （短報）  
