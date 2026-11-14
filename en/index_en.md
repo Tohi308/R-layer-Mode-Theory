@@ -34,7 +34,8 @@ earlier Volume, the 2026 papers take precedence (see *Archive* below).
   No redshift, direction or local-void dependence of H0 is seen inside the supernova data at the level required.
 - **What H0 = 73 would need.** Only a component before recombination that shortens the sound horizon
   by about 6.5% reaches it at low cost. Early dark energy with its onset at matter–radiation equality
-  and a scale-invariant spectrum (n_s = 1) gives H0 = 73.3 ± 0.5 without SH0ES, but raises S8 to 0.84–0.85.
+  and a scale-invariant spectrum (n_s = 1) gives H0 = 73.3 ± 0.5 without SH0ES, but raises S8 to 0.84–0.85,
+  a cost of 1.8σ to 4.5σ depending on the weak-lensing survey. With n_s left free the same model gives H0 = 70.1 ± 1.1.
   It is not an RLMT model. A varying electron mass does not reproduce this: with n_s = 1 it costs Δχ² ≈ +71.
 - **Early modified gravity.** The conformally coupled Layer-2 scalar is exactly dark radiation (no-go).
 - **Cosmological constant.** Lindblad dissipation of the Ω layer does not give the observed Λ
@@ -56,12 +57,12 @@ Each entry links the latest version; earlier versions are reached from the Zenod
   [10.51094/jxiv.6151](https://doi.org/10.51094/jxiv.6151) (v2) · [10.5281/zenodo.23356202](https://doi.org/10.5281/zenodo.23356202) (v3)
 - **RLMT: RLMT and the Hubble Tension: Primordial and Late-Time Ω-Layer Tests against Planck, ACT DR6, SPT-3G D1, DESI DR2, Pantheon+ and DES Supernovae, with Control Models, an H0 = 73 Stress Test with Restricted Early Dark Energy, a Varying-Electron-Mass Comparison, and Methodological Corrections** (v9)  
   [10.5281/zenodo.24095632](https://doi.org/10.5281/zenodo.24095632)
-- **Early dark energy at matter–radiation equality with a scale-invariant spectrum selects H0 ≃ 73 without SH0ES**  
-  [10.5281/zenodo.23975756](https://doi.org/10.5281/zenodo.23975756) · data and code [10.5281/zenodo.23975271](https://doi.org/10.5281/zenodo.23975271)
+- **Early dark energy at matter–radiation equality with a scale-invariant spectrum selects H0 ≃ 73 without SH0ES** (v2; submitted to *Physics of the Dark Universe*)  
+  [10.5281/zenodo.24211812](https://doi.org/10.5281/zenodo.24211812) · data and code [10.5281/zenodo.23975271](https://doi.org/10.5281/zenodo.23975271)
 - **RLMT: From Lindblad Relaxation to the Primordial Spectrum: A de Sitter Cosmogenesis Map, Symmetric Base Spectra, and the Relaxation Exponent** (v1.4)  
   [10.5281/zenodo.24095771](https://doi.org/10.5281/zenodo.24095771)
-- **RLMT: From a CMB fit to a testable dark sector — the Ω layer of R-layer Mode Theory as an electroweak-scale U(1)_T sector** (v3)  
-  [10.5281/zenodo.23430324](https://doi.org/10.5281/zenodo.23430324)
+- **RLMT: From a CMB fit to a testable dark sector — the Ω layer of R-layer Mode Theory as an electroweak-scale U(1)_T sector** (v4)  
+  [10.5281/zenodo.24128196](https://doi.org/10.5281/zenodo.24128196)
 - **RLMT: Reading the Primordial Fossils of RLMT-lite** (v1.2)  
   [10.5281/zenodo.23354922](https://doi.org/10.5281/zenodo.23354922)
 - **RLMT: The Conformally Coupled Layer-2 Scalar Is Exactly Dark Radiation**  
