@@ -52,8 +52,8 @@ Tsuyoshi Tohi による、理論宇宙論の独立研究です。2026 年 7 月�
   [10.5281/zenodo.23934021](https://doi.org/10.5281/zenodo.23934021)
 
 **技術的な基礎**
-- **RLMT: R-layer Mode Theory Appendix X-II: Technical Foundation — Continuous Mode Tension, Topological Sectors, Particle Hypotheses, and Research Boundaries** （第 1.3 版）  
-  [10.5281/zenodo.24097567](https://doi.org/10.5281/zenodo.24097567)
+- **RLMT: R-layer Mode Theory Appendix X-II: Technical Foundation — Continuous Mode Tension, Topological Sectors, Particle Hypotheses, and Research Boundaries** （第 1.4 版）  
+  [10.5281/zenodo.24218113](https://doi.org/10.5281/zenodo.24218113)
 
 各論文のコードは、Zenodo の記録に添付してあります。上の ΔAIC は、識別できる追加パラメータ 5 個で数えた値です（誤りの記録 ERR-006）。Zenodo の最新版はすべて 5 個で数えています。親論文（Jxiv 5386・Zenodo 23131099）と、表現論の論文の Jxiv 版は 7 個で数えた値を載せており、次の版で訂正します。
 
