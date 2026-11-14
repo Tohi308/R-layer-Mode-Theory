@@ -80,8 +80,8 @@ Each entry links the latest version; earlier versions are reached from the Zenod
   [10.5281/zenodo.23934021](https://doi.org/10.5281/zenodo.23934021)
 
 **Technical foundation**
-- **RLMT: R-layer Mode Theory Appendix X-II: Technical Foundation — Continuous Mode Tension, Topological Sectors, Particle Hypotheses, and Research Boundaries** (v1.3)  
-  [10.5281/zenodo.24097567](https://doi.org/10.5281/zenodo.24097567)
+- **RLMT: R-layer Mode Theory Appendix X-II: Technical Foundation — Continuous Mode Tension, Topological Sectors, Particle Hypotheses, and Research Boundaries** (v1.4)  
+  [10.5281/zenodo.24218113](https://doi.org/10.5281/zenodo.24218113)
 
 Code for each paper is attached to its Zenodo record.
 The ΔAIC values above count five identifiable extra parameters (error record ERR-006);
