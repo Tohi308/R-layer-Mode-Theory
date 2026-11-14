@@ -43,7 +43,8 @@ earlier Volume, the 2026 papers take precedence (see *Archive* below).
 - **The Ω layer as a dark sector.** Realised as an electroweak-scale U(1)_T sector, it gives an inelastic
   dark-matter benchmark, m_χ = 277 ± 8 GeV with a 56.6 GeV dark photon and dark Higgs, allowed by current
   indirect-detection, cosmological and collider limits with margins of 2.5 to 10.5. A larger SU(3)
-  representation for the layer fixes no new number (negative result).
+  representation for the layer fixes no new number (negative result). Its low-scale inflation gives n_s ≈ 0.963 only with a
+  2% tuning; untuned it gives n_s ≈ 1, which needs an early component that RLMT does not supply.
 - **Shortcuts through the R-direction.** Constrained by GW170817 to be of no practical use.
 - **Numerical tools.** The hi_class audit found and fixed several problems in the code; they have been
   reported to the CLASS and hi_class developers.
@@ -61,8 +62,8 @@ Each entry links the latest version; earlier versions are reached from the Zenod
   [10.5281/zenodo.24211812](https://doi.org/10.5281/zenodo.24211812) · data and code [10.5281/zenodo.23975271](https://doi.org/10.5281/zenodo.23975271)
 - **RLMT: From Lindblad Relaxation to the Primordial Spectrum: A de Sitter Cosmogenesis Map, Symmetric Base Spectra, and the Relaxation Exponent** (v1.4)  
   [10.5281/zenodo.24095771](https://doi.org/10.5281/zenodo.24095771)
-- **RLMT: From a CMB fit to a testable dark sector — the Ω layer of R-layer Mode Theory as an electroweak-scale U(1)_T sector** (v4)  
-  [10.5281/zenodo.24128196](https://doi.org/10.5281/zenodo.24128196)
+- **RLMT: From a CMB fit to a testable dark sector — the Ω layer of R-layer Mode Theory as an electroweak-scale U(1)_T sector** (v5)  
+  [10.5281/zenodo.24213478](https://doi.org/10.5281/zenodo.24213478)
 - **RLMT: Reading the Primordial Fossils of RLMT-lite** (v1.2)  
   [10.5281/zenodo.23354922](https://doi.org/10.5281/zenodo.23354922)
 - **RLMT: The Conformally Coupled Layer-2 Scalar Is Exactly Dark Radiation**  
