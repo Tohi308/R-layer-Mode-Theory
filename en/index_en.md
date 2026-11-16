@@ -37,6 +37,9 @@ earlier Volume, the 2026 papers take precedence (see *Archive* below).
   and a scale-invariant spectrum (n_s = 1) gives H0 = 73.3 ± 0.5 without SH0ES, but raises S8 to 0.84–0.85,
   a cost of 1.8σ to 4.5σ depending on the weak-lensing survey. With n_s left free the same model gives H0 = 70.1 ± 1.1.
   It is not an RLMT model. A varying electron mass does not reproduce this: with n_s = 1 it costs Δχ² ≈ +71.
+  With the Planck PR4 likelihood the n_s = 1 model still selects H0 ≈ 73.3 but fits worse than ΛCDM (Δχ² ≈ +6).
+  If the local value lies between the Cepheid and red-giant calibrations (71.5), the same EDE with n_s free needs about
+  two thirds of the amount and raises S8 only to 0.83; a light thermal species does not lower S8.
 - **Early modified gravity.** The conformally coupled Layer-2 scalar is exactly dark radiation (no-go).
 - **Cosmological constant.** Lindblad dissipation of the Ω layer does not give the observed Λ
   (unimodular mechanism: zero with an internal bath, far too large with the de Sitter horizon as the bath).
@@ -56,8 +59,8 @@ Each entry links the latest version; earlier versions are reached from the Zenod
   [10.51094/jxiv.5386](https://doi.org/10.51094/jxiv.5386) · [10.5281/zenodo.23131099](https://doi.org/10.5281/zenodo.23131099)
 - **RLMT: A Representation-Theoretic Origin for the Mode Amplitude Coefficients, and a Negative Result for Tensor-Sector Coupling** (v3)  
   [10.51094/jxiv.6151](https://doi.org/10.51094/jxiv.6151) (v2) · [10.5281/zenodo.23356202](https://doi.org/10.5281/zenodo.23356202) (v3)
-- **RLMT: RLMT and the Hubble Tension: Primordial and Late-Time Ω-Layer Tests against Planck, ACT DR6, SPT-3G D1, DESI DR2, Pantheon+ and DES Supernovae, with Control Models, an H0 = 73 Stress Test with Restricted Early Dark Energy, a Varying-Electron-Mass Comparison, and Methodological Corrections** (v9)  
-  [10.5281/zenodo.24095632](https://doi.org/10.5281/zenodo.24095632)
+- **RLMT: RLMT and the Hubble Tension: Primordial and Late-Time Ω-Layer Tests against Planck, ACT DR6, SPT-3G D1, DESI DR2, Pantheon+ and DES Supernovae, with Control Models, an H0 = 73 Stress Test with Restricted Early Dark Energy, a Varying-Electron-Mass Comparison, and Methodological Corrections** (v10)  
+  [10.5281/zenodo.24278235](https://doi.org/10.5281/zenodo.24278235)
 - **Early dark energy at matter–radiation equality with a scale-invariant spectrum selects H0 ≃ 73 without SH0ES** (v2; submitted to *Physics of the Dark Universe*)  
   [10.5281/zenodo.24211812](https://doi.org/10.5281/zenodo.24211812) · data and code [10.5281/zenodo.23975271](https://doi.org/10.5281/zenodo.23975271)
 - **RLMT: From Lindblad Relaxation to the Primordial Spectrum: A de Sitter Cosmogenesis Map, Symmetric Base Spectra, and the Relaxation Exponent** (v1.4)  
